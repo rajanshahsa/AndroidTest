@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/SA_Project/Project/iBeed/SourceCode_ionic/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/rajan.shah/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/d180194ef45e7a4bfcd978cb349f84e9/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

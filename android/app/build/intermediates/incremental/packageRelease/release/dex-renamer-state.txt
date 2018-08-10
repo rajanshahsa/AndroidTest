@@ -1,0 +1,4 @@
+#Wed Aug 08 16:24:57 IST 2018
+base.0=/SA_Project/Project/iBeed/SourceCode_ionic/platforms/android/app/build/intermediates/transforms/dex/release/0
+path.0=classes.dex
+renamed.0=classes.dex

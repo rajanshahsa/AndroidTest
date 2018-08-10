@@ -1,0 +1,2 @@
+# Referenced at /SA_Project/Project/iBeed/SourceCode_ionic/platforms/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:64
+-keep class android.support.multidex.MultiDexApplication { <init>(...); }

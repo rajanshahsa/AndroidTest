@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "390981059844",
+    "firebase_url": "https://mari-a25ba.firebaseio.com",
+    "project_id": "mari-a25ba",
+    "storage_bucket": "mari-a25ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390981059844:android:02535737ead0e65d",
+        "android_client_info": {
+          "package_name": "com.ksgcorp.ibeed.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390981059844-lslcfiumh0ouf0eir6dsl8fr3m7imtuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH8fFisu6QOrq84MCqkGkpRDSxEfjqcGY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390981059844:android:0cb1e35d0fb679ab",
+        "android_client_info": {
+          "package_name": "com.love.ichain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390981059844-lslcfiumh0ouf0eir6dsl8fr3m7imtuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH8fFisu6QOrq84MCqkGkpRDSxEfjqcGY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }ww
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390981059844:android:07f18387b3b58a6c",
+        "android_client_info": {
+          "package_name": "com.love.ichain.stage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390981059844-lslcfiumh0ouf0eir6dsl8fr3m7imtuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH8fFisu6QOrq84MCqkGkpRDSxEfjqcGY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">390981059844-lslcfiumh0ouf0eir6dsl8fr3m7imtuu.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://mari-a25ba.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">390981059844</string>
+    <string name="google_api_key" translatable="false">AIzaSyCH8fFisu6QOrq84MCqkGkpRDSxEfjqcGY</string>
+    <string name="google_app_id" translatable="false">1:390981059844:android:0cb1e35d0fb679ab</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCH8fFisu6QOrq84MCqkGkpRDSxEfjqcGY</string>
+    <string name="google_storage_bucket" translatable="false">mari-a25ba.appspot.com</string>
+    <string name="project_id" translatable="false">mari-a25ba</string>
+</resources>
